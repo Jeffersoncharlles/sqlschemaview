@@ -1,0 +1,21 @@
+# Build artifacts
+/bin/
+/sqlschemaview
+*.exe
+*.test
+*.out
+/coverage.out
+
+# Generated documentation
+/database-docs/
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local planning and agent instructions requested for this workspace
+/AGENTS.md
+/docs/planejamento.md
+/docs/specs.md
